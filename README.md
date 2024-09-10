@@ -7,7 +7,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/elanas-bartulis-750554163/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/doJ6GVg"/></a>
+  <a href="https://www.linkedin.com/in/elanas-bartulis-750554163/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/doJ6GVg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
