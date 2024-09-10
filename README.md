@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="https://github.com/ElanasBartulis">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Elanas Bartulis" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Elanas</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=3A9FFF&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
