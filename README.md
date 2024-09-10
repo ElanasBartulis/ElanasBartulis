@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Lithuania</h3>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&pause=1000&color=3A9FFF&width=435&lines=I%E2%80%99m+currently+learning+Full-Stack+Development;Always+learning+new+things" /></a>
 </p>
