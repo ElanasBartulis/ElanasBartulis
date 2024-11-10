@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elanas, Full-Stack Web Developer</h1>
-<p align="center">Welcome to my Github page</p>
+<h1 align="center">Hi 👋, I'm Elanas. Welcome to my Github page </h1>
+<p align="center">Full-Stack Web Developer</p>
 
 ```js
 const elanas= {
