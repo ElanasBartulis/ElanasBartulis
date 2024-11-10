@@ -2,7 +2,7 @@
 <p align="center">Full-Stack Web Developer</p>
 
 ```js
-const elanas= {
+const elanas = {
   code: [JavaScript, HTML, CSS],
   askMeAbout: ["Web Dev", "Tech", "Music", "Matcha tea"],
   technologies: {
