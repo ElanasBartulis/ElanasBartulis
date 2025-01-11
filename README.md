@@ -8,6 +8,6 @@ const elanas = {
   technologies: {
     frontEnd: ["React"],
     backEnd: ["Node"]
-  },
+  }, 
 };
 ```
