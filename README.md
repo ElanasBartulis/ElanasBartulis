@@ -8,7 +8,7 @@ const elanas = {
 };
 ```
 
-<h1 align="left">Technologies I worked with:</h1>
+<h1 align="left">Tech Stack:</h1>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
