@@ -11,7 +11,3 @@ const elanas = {
   }, 
 };
 ```
-
-<h3 align="left">Skills:</h3>
-
-![github]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))]
