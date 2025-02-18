@@ -3,7 +3,7 @@
 <p align="center">I'm a full-stack developer always learning and refining my skills. I enjoy building practical, user-friendly applications and solving real-world problems through clean, efficient code. Passionate about technology, I love exploring new tools 🛠️, improving performance 🚀, and creating seamless user experiences 🎨. Open to new challenges and opportunities to grow.</p>
 
 <p align="center">
-  Let's connect  
+  Let's connect:  
   <a href="https://www.linkedin.com/in/elanas-bartulis/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn logo" />
   </a>
