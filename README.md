@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elanas. Welcome to my Github page. </h1>
-<p align="center">Full-Stack Web Developer</p>
 
-
-<p align="center">I'm a full-stack developer with a focus on JavaScript, React, and Node.js. I enjoy building efficient, user-friendly applications and continuously learning new technologies. Always looking for ways to improve and solve problems through clean, maintainable code.</p>
+<p align="center">I'm a full-stack developer always learning and refining my skills. I enjoy building practical, user-friendly applications and solving real-world problems through clean, efficient code. Passionate about technology, I love exploring new tools 🛠️, improving performance 🚀, and creating seamless user experiences 🎨. Open to new challenges and opportunities to grow.</p>
 
  
 ```js
