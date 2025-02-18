@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elanas. Welcome to my Github page. </h1>
 <p align="center">Full-Stack Web Developer</p>
+
+
+<p align="center">I'm a full-stack developer with a focus on JavaScript, React, and Node.js. I enjoy building efficient, user-friendly applications and continuously learning new technologies. Always looking for ways to improve and solve problems through clean, maintainable code.</p>
+
  
 ```js
 const elanas = {
