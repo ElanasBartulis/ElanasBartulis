@@ -2,7 +2,12 @@
 
 <p align="center">I'm a full-stack developer always learning and refining my skills. I enjoy building practical, user-friendly applications and solving real-world problems through clean, efficient code. Passionate about technology, I love exploring new tools 🛠️, improving performance 🚀, and creating seamless user experiences 🎨. Open to new challenges and opportunities to grow.</p>
 
-<p align="center">Let's connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elanas-bartulis/)</p>
+<p align="center">
+  Let's connect  
+  <a href="https://www.linkedin.com/in/elanas-bartulis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
  
 ```js
