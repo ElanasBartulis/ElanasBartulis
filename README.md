@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elanas. Welcome to my Github page. </h1>
 
-<p align="center">I'm a full-stack developer always learning and refining my skills. I enjoy building practical, user-friendly applications and solving real-world problems through clean, efficient code. Passionate about technology, I love exploring new tools 🛠️, improving performance 🚀, and creating seamless user experiences 🎨. Open to new challenges and opportunities to grow.</p>
+<div style="width: 60%; margin: auto; text-align: center;">
+  <p>
+    I'm a full-stack developer always learning and refining my skills. I enjoy building practical, user-friendly applications and solving real-world problems through clean, efficient code. Passionate about technology, I love exploring new tools 🛠️, improving performance 🚀, and creating seamless user experiences 🎨. Open to new challenges and opportunities to grow.
+  </p>
+</div>
 
 <p align="center">
   Let's connect  
