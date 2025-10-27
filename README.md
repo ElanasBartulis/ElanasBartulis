@@ -9,15 +9,6 @@
   </a>
 </p>
 
-
- 
-```js
-const elanas = {
-  code: [JavaScript, HTML, CSS],
-  askMeAbout: ["Web Dev", "Tech", "Music", "Matcha tea"],
-};
-```
-
 <h1 align="left">Tech Stack:</h1>
 
 <p align="center">
